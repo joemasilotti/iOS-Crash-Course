@@ -1,4 +1,4 @@
-# Swift + iOS crash course for Ruby + Rails developers
+# iOS crash course for Rails developers
 
 Source code to accompany my livestream on [Swift + iOS crash course for Ruby + Rails developers](https://www.youtube.com/watch?v=H58Tj-i2aSE).
 
